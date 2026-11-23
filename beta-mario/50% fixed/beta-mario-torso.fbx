@@ -1,0 +1,123 @@
+Kaydara FBX Binary    è  _           FBXHeaderExtension\         FBXHeaderVersionIë  x         
+FBXVersionIè  ˜         EncryptionTypeI              CreationTimeStampÏ          VersionIè  å         YearIê   ü         MonthI
+           DayI   '        HourI   ?        MinuteI   W        SecondI8   t        
+MillisecondIÀ               É     4    CreatorS/   Blender (stable FBX IO) - 2.79 (sub 0) - 3.7.13R      '   	SceneInfoS   GlobalInfo SceneInfoS   UserData$     
+   TypeS   UserData=         VersionId   
+          MetaDatak         VersionId   ‚        TitleS    ›         SubjectS    ³        AuthorS    Í        KeywordsS    ç        RevisionS              CommentS                 E           Properties70m     9   PS
+   DocumentUrlS    KStringS   UrlS    S
+   /foobar.fbx·     <   PS   SrcDocumentUrlS    KStringS   UrlS    S
+   /foobar.fbxé     $   PS   OriginalS   CompoundS    S    C     L   PS   Original|ApplicationVendorS    KStringS    S    S   Blender Foundation      O   PS   Original|ApplicationNameS    KStringS    S    S   Blender (stable FBX IO)õ     G   PS   Original|ApplicationVersionS    KStringS    S    S   2.79 (sub 0)P     M   PS   Original|DateTime_GMTS   DateTimeS    S    S   01/01/1970 00:00:00.000š     <   PS   Original|FileNameS    KStringS    S    S
+   /foobar.fbxÍ     %   PS	   LastSavedS   CompoundS    S    (     M   PS   LastSaved|ApplicationVendorS    KStringS    S    S   Blender Foundation†     P   PS   LastSaved|ApplicationNameS    KStringS    S    S   Blender (stable FBX IO)Ü     H   PS   LastSaved|ApplicationVersionS    KStringS    S    S   2.79 (sub 0)8      N   PS   LastSaved|DateTime_GMTS   DateTimeS    S    S   01/01/1970 00:00:00.000                                       ‡         FileIdR   (³*ë¶$ÌÂ¿È°*©+üñ¼         CreationTimeS   1970-01-01 10:00:00:000     4    CreatorS/   Blender (stable FBX IO) - 2.79 (sub 0) - 3.7.13‚          GlobalSettings8         VersionIè  u          Properties70ˆ     )   PS   UpAxisS   intS    IntegerS    I   Ã     -   PS
+   UpAxisSignS   intS    IntegerS    I   ý     ,   PS	   FrontAxisS   intS    IntegerS    I   ;	     0   PS
+   FrontAxisSignS   intS    IntegerS    I   u	     ,   PS	   CoordAxisS   intS    IntegerS    I    ³	     0   PS
+   CoordAxisSignS   intS    IntegerS    I   ò	     1   PS   OriginalUpAxisS   intS    IntegerS    Iÿÿÿÿ5
+     5   PS   OriginalUpAxisSignS   intS    IntegerS    I   {
+     8   PS   UnitScaleFactorS   doubleS   NumberS    D      ð?É
+     @   PS   OriginalUnitScaleFactorS   doubleS   NumberS    D      ð?
+      H   PS   AmbientColorS   ColorRGBS   ColorS    D        D        D        n
+     A   PS
+   DefaultCameraS    KStringS    S    S   Producer Perspective¡
+     %   PS   TimeModeS   enumS    S    I
+   â
+     3   PS
+   TimeSpanStartS   KTimeS   TimeS    L        "     2   PS   TimeSpanStopS   KTimeS   TimeS    L°×èÀ
+   h     8   PS   CustomFrameRateS   doubleS   NumberS    D      8@                          ´
+          	Documents¯        CountI   §
+        DocumentL‹m=6    S   SceneS   Scene|
+          Properties70.
+     &   PS   SourceObjectS   objectS    S    o
+     3   PS   ActiveAnimStackNameS    KStringS    S    S                 š
+     	   RootNodeL                                  Ø
+          
+References             d$          
+Definitions	         VersionId            CountI   n        
+ObjectTypeS   GlobalSettingsa        CountI                ´     
+   
+ObjectTypeS   Geometry©        CountI   §        PropertyTemplateS    FbxMeshš          Properties70:      A   PS   ColorS   ColorRGBS   ColorS    Dš™™™™™é?Dš™™™™™é?Dš™™™™™é?Œ      D   PS    BBoxMinS   Vector3DS   VectorS    D        D        D        Þ      D   PS    BBoxMaxS   Vector3DS   VectorS    D        D        D             /   PS   Primary VisibilityS   boolS    S    I   S     *   PS
+   Casts ShadowsS   boolS    S    I        ,   PS   Receive ShadowsS   boolS    S    I                                          W$     
+   
+ObjectTypeS   Modelì        CountI   J$        PropertyTemplateS    FbxNode=$          Properties70n     2   PS   QuaternionInterpolateS   enumS    S    I    Ç      K   PS   RotationOffsetS   Vector3DS   VectorS    D        D        D              J   PS
+   RotationPivotS   Vector3DS   VectorS    D        D        D        w      J   PS
+   ScalingOffsetS   Vector3DS   VectorS    D        D        D        Î      I   PS   ScalingPivotS   Vector3DS   VectorS    D        D        D        
+     .   PS   TranslationActiveS   boolS    S    I    c      K   PS   TranslationMinS   Vector3DS   VectorS    D        D        D        ¼      K   PS   TranslationMaxS   Vector3DS   VectorS    D        D        D        ö     ,   PS   TranslationMinXS   boolS    S    I    0     ,   PS   TranslationMinYS   boolS    S    I    j     ,   PS   TranslationMinZS   boolS    S    I    ¤     ,   PS   TranslationMaxXS   boolS    S    I    Þ     ,   PS   TranslationMaxYS   boolS    S    I         ,   PS   TranslationMaxZS   boolS    S    I    P     *   PS
+   RotationOrderS   enumS    S    I    ”     6   PS   RotationSpaceForLimitOnlyS   boolS    S    I    Ý     ;   PS   RotationStiffnessXS   doubleS   NumberS    D        &     ;   PS   RotationStiffnessYS   doubleS   NumberS    D        o     ;   PS   RotationStiffnessZS   doubleS   NumberS    D        ­     0   PS    AxisLenS   doubleS   NumberS    D      $@      H   PS
+   PreRotationS   Vector3DS   VectorS    D        D        D        Z      I   PS   PostRotationS   Vector3DS   VectorS    D        D        D        “     +   PS   RotationActiveS   boolS    S    I    é      H   PS
+   RotationMinS   Vector3DS   VectorS    D        D        D        ?      H   PS
+   RotationMaxS   Vector3DS   VectorS    D        D        D        v     )   PS   RotationMinXS   boolS    S    I    ­     )   PS   RotationMinYS   boolS    S    I    ä     )   PS   RotationMinZS   boolS    S    I         )   PS   RotationMaxXS   boolS    S    I    R     )   PS   RotationMaxYS   boolS    S    I    ‰     )   PS   RotationMaxZS   boolS    S    I    ¿     (   PS
+   InheritTypeS   enumS    S    I    ÷     *   PS
+   ScalingActiveS   boolS    S    I    L      G   PS
+   ScalingMinS   Vector3DS   VectorS    D        D        D        ¡      G   PS
+   ScalingMaxS   Vector3DS   VectorS    D      ð?D      ð?D      ð?×     (   PS
+   ScalingMinXS   boolS    S    I    
+     (   PS
+   ScalingMinYS   boolS    S    I    C     (   PS
+   ScalingMinZS   boolS    S    I    y     (   PS
+   ScalingMaxXS   boolS    S    I    ¯     (   PS
+   ScalingMaxYS   boolS    S    I    å     (   PS
+   ScalingMaxZS   boolS    S    I    D      Q   PS   GeometricTranslationS   Vector3DS   VectorS    D        D        D               N   PS   GeometricRotationS   Vector3DS   VectorS    D        D        D        û      M   PS   GeometricScalingS   Vector3DS   VectorS    D      ð?D      ð?D      ð??     6   PS
+   MinDampRangeXS   doubleS   NumberS    D        ƒ     6   PS
+   MinDampRangeYS   doubleS   NumberS    D        Ç     6   PS
+   MinDampRangeZS   doubleS   NumberS    D        
+     6   PS
+   MaxDampRangeXS   doubleS   NumberS    D        O     6   PS
+   MaxDampRangeYS   doubleS   NumberS    D        “     6   PS
+   MaxDampRangeZS   doubleS   NumberS    D        Ú     9   PS   MinDampStrengthXS   doubleS   NumberS    D        !     9   PS   MinDampStrengthYS   doubleS   NumberS    D        h     9   PS   MinDampStrengthZS   doubleS   NumberS    D        ¯     9   PS   MaxDampStrengthXS   doubleS   NumberS    D        ö     9   PS   MaxDampStrengthYS   doubleS   NumberS    D        =      9   PS   MaxDampStrengthZS   doubleS   NumberS    D        ‚      7   PS   PreferedAngleXS   doubleS   NumberS    D        Ç      7   PS   PreferedAngleYS   doubleS   NumberS    D        !     7   PS   PreferedAngleZS   doubleS   NumberS    D        B!     (   PS   LookAtPropertyS   objectS    S    z!     *   PS   UpVectorPropertyS   objectS    S    ©!     !   PS   ShowS   boolS    S    I   ï!     8   PS   NegativePercentShapeSupportS   boolS    S    I   5"     8   PS   DefaultAttributeIndexS   intS    IntegerS    Iÿÿÿÿf"     #   PS   FreezeS   boolS    S    I    —"     #   PS   LODBoxS   boolS    S    I    ó"      N   PS   Lcl TranslationS   Lcl TranslationS    S   AD        D        D        I#      H   PS   Lcl RotationS   Lcl RotationS    S   AD        D        D        #      F   PS
+   Lcl ScalingS
+   Lcl ScalingS    S   AD      ð?D      ð?D      ð?Ý#     2   PS
+   VisibilityS
+   VisibilityS    S   AD      ð?0$     E   PS   Visibility InheritanceS   Visibility InheritanceS    S    I                                                       ?           Objects
+1     8   GeometryLºiN    S!   gfx_mario_body_middle_1 GeometryS   Meshë$          Properties70             %        GeometryVersionI|   Ì&     «  Verticesdö      ž  x•UÁQ1Ü¨áŠ`€	`œ0@HHÒŽJSI”@b­üGsàÎky-¯%pº+Ü”fð¡fkiV6f±×6ÇÚæ²§}"~gV^×ñŸG\†J³òªÍ"àx³õçVúG<‰ GúsŸß«ð£æ/ß´Ü‡E†+ÚÈâ‰x-Í]Ofe©mŽ[³#n~]§/úÛ.àëW†ëÌ½PÍ?ê€ÉppãÃµá²Ò¶âï©Ô ÷†ck~#Îõ•­Ë§ÍeC<ð‹çO¥ÈÃñ½Èt(ž·“ñ€£œ´}¥qfñÜu@¸¼þ©Ïøîgöî™Âs¥–vO,ÈâìúÇüdüÆ7òóœÈS
+u&>ä?yBœ®gì½Ÿ<(Ú8rÿ3íûLÆãùŽŒ?é{êõéùhÑÁ¿÷¥$NÙªí\ÓÚ¬ó`GÜû ù—e±~.ë·°÷xˆÃë.Ó?Ëÿ‰çØiè}ÃûºëÁõ~.ë¤ëñÔÒvÎõ+¯ëÈßÿG Þ‚>]‡pßÞ—‚>½Ž‚þðw™Ñax¯ÀÎÿ_Zbë"(     )  PolygonVertexIndexi¢        x5Œi+EaEÏ0ÏdÖ5ÜÈ”yVDÆ_z“!Š¤D†RÊTJ|"ùÇZõø°[ëìgŸ7“$I+¹KÓTfÈ-Þ;È=Þ³ä·óvƒwÂ.rÞ_ávÞôhïû²7¼ö“Kú8HÎðáð
+|"ç¸wo§øhôúXøIìÝãp2Ü½oÙÛM…OCwöþç·>Ýø¦ôŸÃðYü ŸúîûîìÝúæ>> çÉ¾ É¾¾îm
+_«d;úe|·ó¶¯Ã5’Ãó`>ùÁ
+`!ùÅí¼}Ç¦8¼‘/úRXFÞñrXA>£×ßÂ«ð¼ênªa
+yÅkayÆëayÁíÉ¯?Ñ7A7öÍ°…<âiÑáõ(     Ï   Edgesiq      Â   x
+Ãé+Ã  ÐMÍ¹“;ZÉUhñA9¿ÈMr¥Ø0ÊHÎr¤Ü¢Pü©Þ«Ae¶9†Ì5Ï°ùF,°Ð"‹-±Ô¨e–[aÌJ«¬¶ÆZë¬·ÁF›ŒÛl‹­¶Ùn‡vÙm½öÙoÂ rØGsÜ	'rÚgsÞ]rÙW]sÝ
+7ÝrÛ¤)wÜuÏ´ûxhÆ#=ñÔ3Ï½ðÒ+¯½ñÖ;ï}ðÑ'Ÿ}ñÕ7ßýðÓ/¿ýñ×?ÿÆ<#<-        LayerElementNormalI    2)         VersionIe   H)        NameS    )        MappingInformationTypeS   ByPolygonVertex¯)     
+   ReferenceInformationTypeS   Direct	-     F   Normalsdæ     9  xÅ–]HTAÇ‡ ú$+Ã‡ˆ¸(–eD‘±ƒ"døÒCô!â-Ê 4"£ÖóF%é[dA2…ö¢[–bÔNf~T»¦Û¦[«N~»æZ)ÑžsÛ‡âº/öÇÎoÏ™™½3Œ1¡ÖwÚc|ß²1W8¸î.H*×CàQÍRØs¼à¡r~,=üÎÉ'à1JSÚÁCåZAV?Œ×—ŒÀxV”ü’ÊULùxXìË>H‘ºÎ*g¾ zøÝôÈžù~ô¹Õ|‚‡Ê­æ<TnµOÀCåFf!®—jµ›ëuÐû<T®‡Î
+'~€Œ<TÎÿà¡rÁ¿p…‹P	ùÃØÏ£¢øLåFzu?ŒÓú¶Œ‚'òP¹¶:j<r÷Ò xŒ­‰ôRùŠ
+èák|oÁ£Î|ÁÔˆÜjÀGåjÖ{èCu%=À¼âÆ¾¨œÍ­Áõ1ò³Í}vâCå
+c=Z ëaÅ%8ßŒÈ…×cÎó´Þ‹}]ˆ÷áüP¹Û‰}óMô°Â>ð	"gMãXGÆ·‹ZYN'$•‹P‡é™ªG±=Ï!*—CþXÇÞâ $×úÞÙÂIå¢ösŒW3ãš!õèøþ rVu¯Ç·/Áó”§ÌÆz¨\¿ožWüÔm>qÝ†õP9Ï¹Tiƒ~š''Ày¨\Ï«l;Û©çñœþê²òü•[Ì~ŸÈ­Ö<TnµßÀCåVû<TÎã;jlÐGE ®;Ÿ5Ç	*×ózLO’=jÒY
+^*WÉv<ÿÔ
+9ã#Ïãu%æÿ©­ôé/õ¹üù}þ›‡Êõ«ó^­á{,2?T.í{¡î±¹!E¶+Iå<ôÝ
+ãô”ZÓÔ8$•«Êhô¨Œ£¸ÿTíi|oP9›`©CN¬#jÕ$•óØ˜n§>Ür» ŸEcè#rÙpù
+þþ¢]ƒèiñàýŒÊÅë•=àÑ
+<­bÏ
+*×“–ã½ÀØ6Ü ùÉ‡ç+•ó®á=\àÿ\4nÂ{•Ëºµxß‘™ù-0?òÜb¼Q9«O{ý°òÔ*ôd¥… ©\N'àýTæÆáz‡Ú±Oÿ¾÷             [.        LayerElementColorI    R-         VersionIe   k-        NameS   Col¢-        MappingInformationTypeS   ByPolygonVertexÙ-        ReferenceInformationTypeS
+   IndexToDirect.     -   Colorsd                                 ð?      ð?N.        
+ColorIndexi¢         xc`£!0ð!  ˆ              ˆ/        LayerElementUVI    ”.         VersionIe   ¯.     
+   NameS   UVMapæ.        MappingInformationTypeS   ByPolygonVertex/        ReferenceInformationTypeS
+   IndexToDirectI/        UVd                          {/         UVIndexi¢         xc`£!0ð!  ˆ              þ0        LayerI    ¸/         VersionId   "0          LayerElementù/        TypeS   LayerElementNormal0        
+TypedIndexI                 ‹0          LayerElementb0        TypeS   LayerElementColor~0        
+TypedIndexI                 ñ0          LayerElementÈ0        TypeS   LayerElementUVä0        
+TypedIndexI                                           ¥:     8   GeometryLöø'    S!   gfx_mario_body_middle_0 GeometryS   Mesh~1          Properties70             Ÿ1        GeometryVersionI|   _3     «  Verticesdö      ž  x•UÁQ1Ü¨áŠ`€	`œ0@HHÒŽJSI”@b­üGsàÎky-¯%pº+Ü”fð¡fkiV6f±×6ÇÚæ²§}"~gV^×ñŸG\†J³òªÍ"àx³õçVúG<‰ GúsŸß«ð£æ/ß´Ü‡E†+ÚÈâ‰x-Í]Ofe©mŽ[³#n~]§/úÛ.àëW†ëÌ½PÍ?ê€ÉppãÃµá²Ò¶âï©Ô ÷†ck~#Îõ•­Ë§ÍeC<ð‹çO¥ÈÃñ½Èt(ž·“ñ€£œ´}¥qfñÜu@¸¼þ©Ïøîgöî™Âs¥–vO,ÈâìúÇüdüÆ7òóœÈS
+u&>ä?yBœ®gì½Ÿ<(Ú8rÿ3íûLÆãùŽŒ?é{êõéùhÑÁ¿÷¥$NÙªí\ÓÚ¬ó`GÜû ù—e±~.ë·°÷xˆÃë.Ó?Ëÿ‰çØiè}ÃûºëÁõ~.ë¤ëñÔÒvÎõ+¯ëÈßÿG Þ‚>]‡pßÞ—‚>½Ž‚þðw™Ñax¯ÀÎÿ_Zbë"ë3     m   PolygonVertexIndexi       `          ýÿÿÿ      þÿÿÿ      ûÿÿÿ      ýÿÿÿ       ÷ÿÿÿ	   
+   ùÿÿÿ   
+   øÿÿÿ    
+   ôÿÿÿN4     Q   Edgesi       D                         	   
+      
+                     ¼5        LayerElementNormalI    ‹4         VersionIe   ¡4        NameS    Ø4        MappingInformationTypeS   ByPolygonVertex5     
+   ReferenceInformationTypeS   Direct¯5     “    NormalsdH      †   xc``P¸ÓþÈžÁ!ê#˜f0ÿðp?OªxBlü9	½¿Àæèq|	2‡Tq ¹ô› s®è=ÑŒƒÌ!UüÀ‹S ý ‚Þƒh(qlá r©â3vÝ ûg’8|ÎN}æ“(ÞPuO>7‚i…óR`š$q v8­t             P7        LayerElementColorI    ø5         VersionIe   6        NameS   ColH6        MappingInformationTypeS   ByPolygonVertex6        ReferenceInformationTypeS
+   IndexToDirect¿6     -   Colorsd                 ð?                      ð?C7     m   
+ColorIndexi       `                                                                                                                "9        LayerElementUVI    ‰7         VersionIe   ¤7     
+   NameS   UVMapÛ7        MappingInformationTypeS   ByPolygonVertex8        ReferenceInformationTypeS
+   IndexToDirect”8     s   UVd      f   xc` ‚Í ŠÁ`„Ž˜¡ t„þÐs€@ùá`>C!„î€ê[1Â÷€Ò7¦€¨K€Ð[Cä?´Bh†pˆ8C4„¡Â¿1Â?
+•O…ð‚ |Þ Ÿ; z9     m    UVIndexi       `   
+   
+      	       
+      
+                                                                   ˜:        LayerI    R9         VersionId   ¼9          LayerElement“9        TypeS   LayerElementNormal¯9        
+TypedIndexI                 %:          LayerElementü9        TypeS   LayerElementColor:        
+TypedIndexI                 ‹:          LayerElementb:        TypeS   LayerElementUV~:        
+TypedIndexI                                           Î<     5   ModelL .¦    S   gfx_mario_body_middle_1 ModelS   Mesh;         VersionIè   Q<          Properties70t;      H   PS   Lcl RotationS   Lcl RotationS    S   ADÒ'' €VÀD        D        È;      F   PS
+   Lcl ScalingS
+   Lcl ScalingS    S   AD      Y@D      Y@D      Y@<     8   PS   DefaultAttributeIndexS   intS    IntegerS    I    D<     (   PS
+   InheritTypeS   enumS    S    I                m<        
+MultiLayerI    ˆ<        	MultiTakeI    ž<         ShadingCÁ<         CullingS
+   CullingOff             ÷>     5   ModelLõÆS    S   gfx_mario_body_middle_0 ModelS   Mesh.=         VersionIè   z>          Properties70=      H   PS   Lcl RotationS   Lcl RotationS    S   ADÒ'' €VÀD        D        ñ=      F   PS
+   Lcl ScalingS
+   Lcl ScalingS    S   AD      Y@D      Y@D      Y@7>     8   PS   DefaultAttributeIndexS   intS    IntegerS    I    m>     (   PS
+   InheritTypeS   enumS    S    I                –>        
+MultiLayerI    ±>        	MultiTakeI    Ç>         ShadingCê>         CullingS
+   CullingOff                          Å?          
+ConnectionsC?        CS   OOL .¦    L        j?        CS   OOLõÆS    L        ‘?        CS   OOLºiN    L .¦    ¸?        CS   OOLöø'    LõÆS                 ý?          Takesð?         CurrentS                              ú¼«	ÐÈÔf±vûƒ÷&~      è                                                                                                                          øZŒjÞõÙ~ìéãu)
